@@ -1,6 +1,6 @@
 # Sound_event_detection
 Sound event detection using RCNN with week labels  
-put data into this directory  
+put data directory into this directory  
 models.py  -- RCNN model   
 dataset.py -- dataset process with data augamentation  
 
