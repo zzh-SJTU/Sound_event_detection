@@ -11,6 +11,7 @@ run the following command to conduct the experiments with the best performance w
 
 
 run the following command to conduct experiments with data augamentation  
-python run_2.py --augment noi/pitch/mix
+
+    python run_2.py --augment noi/pitch/mix
 
 noi/pitch/mix indicate different data augamentation methods
