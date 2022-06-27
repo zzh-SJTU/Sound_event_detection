@@ -6,11 +6,8 @@ dataset.py -- dataset process with data augamentation
 
 
 run the following command to conduct the experiments with the best performance without data augamentation   
-    <html>
-      <head>
-        python run.py train_evaluate configs/baseline.yaml data/eval/feature.csv data/eval/label.csv 
-      </head>
-    </html>
+    python run.py train_evaluate configs/baseline.yaml data/eval/feature.csv data/eval/label.csv 
+
 
 run the following command to conduct experiments with data augamentation  
 python run_2.py --augment noi/pitch/mix
